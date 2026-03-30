@@ -1,6 +1,8 @@
 # 🎄 Choinka V3 - Inteligentny Monitor Poziomu Wody
 
 Projekt opartego na **ESP32** systemu monitorowania poziomu wody (np. w stojaku na choinkę) z bezprzewodową wizualizacją w czasie rzeczywistym.
+<img width="946" height="2047" alt="image" src="https://github.com/user-attachments/assets/ecd66b34-6530-40e3-8e7b-5168c055bde4" />
+
 
 ## 🚀 Funkcje
 * **Pomiar laserowy:** Wykorzystanie czujnika VL53L0X (ToF) dla precyzji co do 1 mm.
